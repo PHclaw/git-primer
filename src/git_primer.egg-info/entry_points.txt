@@ -1,0 +1,2 @@
+[console_scripts]
+git-primer = git_primer.cli:main

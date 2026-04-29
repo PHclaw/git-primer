@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/git_primer/__init__.py
+src/git_primer/cli.py
+src/git_primer/generator.py
+src/git_primer/git.py
+src/git_primer/parser.py
+src/git_primer/sentiment.py
+src/git_primer.egg-info/PKG-INFO
+src/git_primer.egg-info/SOURCES.txt
+src/git_primer.egg-info/dependency_links.txt
+src/git_primer.egg-info/entry_points.txt
+src/git_primer.egg-info/requires.txt
+src/git_primer.egg-info/top_level.txt
